@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1051293567786",
+    "project_id": "dsmedia",
+    "storage_bucket": "dsmedia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051293567786:android:7ff260e59e66b5c6372c53",
+        "android_client_info": {
+          "package_name": "com.example.dsmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051293567786-5v743c0ug7a5f6p6tor6kb2v25g423r7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA94FoTSpsCAQ8SmreB6LhPi_jCJOgwDyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051293567786-5v743c0ug7a5f6p6tor6kb2v25g423r7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
